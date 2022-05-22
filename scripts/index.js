@@ -34,7 +34,9 @@ console.log(arr6[0]);
 //6//
 
 let arr7 =  ['js', 'css', 'jq'];
-console.log(arr7[arr7.length-1]);
+// console.log(arr7[arr7.length-1]);
+let arr71 = arr7.pop();
+console.log(arr71);
 
 //7//
 
